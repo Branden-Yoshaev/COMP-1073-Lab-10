@@ -43,6 +43,7 @@
       "type" : "ice cream",
       "ingredients" : [
         "cherries",
+        "marshmallows",
         "Marzipan",
         "gummy bears"
       ],
@@ -54,8 +55,10 @@
       "type" : "ice cream/sorbet",
       "ingredients" : [
         "bananas",
+        "chicken",
         "pickled mango",
-        "ghost peppers"
+        "ghost peppers",
+        "Cherry on top"
       ],
       "image" : "ice-cream-xtra2.svg"
     }
